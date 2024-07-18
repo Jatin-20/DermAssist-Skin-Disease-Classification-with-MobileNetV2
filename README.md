@@ -49,7 +49,7 @@ DermAssist/
 The dataset used in this project consists of images of various skin diseases. The dataset is split into training, validation, and testing sets. Each image is labeled with the corresponding skin disease class.
 
 You can download the dataset from the following link:
-- [Skin Diseases Image Dataset](https://www.kaggle.com/datasets/example/skin-diseases-image-dataset)
+- [Skin Diseases Image Dataset](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
 
 Ensure that you place the dataset in the `data/` directory after downloading and extracting it.
 
